@@ -115,7 +115,7 @@ Goodbye!`
 
 The project follows clean architecture principles and is organized into the following packages:
     
-    `com.stockify.platform/
+    com.stockify.platform/
     ├── App.java                 # Main application entry point
     ├── model/
     │   └── Product.java        # Product entity
@@ -124,7 +124,7 @@ The project follows clean architecture principles and is organized into the foll
     ├── controller/
     │   └── CommandController.java # Command handling
     └── util/
-        └── ValidationUtil.java    # Input validation`
+        └── ValidationUtil.java    # Input validation
 
 🧪 Testing
 ----------
@@ -162,11 +162,6 @@ The test suite includes:
 ----------
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-👥 Authors
-----------
-
--   Your Name - *Initial work* - [YourGithub](https://github.com/yourusername)
 
 🙏 Acknowledgments
 ------------------
