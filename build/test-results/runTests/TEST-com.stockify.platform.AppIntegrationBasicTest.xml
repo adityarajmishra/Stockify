@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.stockify.platform.AppIntegrationBasicTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-01-11T06:54:28" hostname="RX297RV65C" time="0.026">
+  <properties/>
+  <testcase name="testAddProduct()" classname="com.stockify.platform.AppIntegrationBasicTest" time="0.016"/>
+  <testcase name="testUpdateQuantity()" classname="com.stockify.platform.AppIntegrationBasicTest" time="0.001"/>
+  <testcase name="testUpdatePrice()" classname="com.stockify.platform.AppIntegrationBasicTest" time="0.001"/>
+  <testcase name="testViewProduct()" classname="com.stockify.platform.AppIntegrationBasicTest" time="0.001"/>
+  <testcase name="testRemoveProduct()" classname="com.stockify.platform.AppIntegrationBasicTest" time="0.001"/>
+  <testcase name="testListProducts()" classname="com.stockify.platform.AppIntegrationBasicTest" time="0.002"/>
+  <testcase name="testSortProducts()" classname="com.stockify.platform.AppIntegrationBasicTest" time="0.001"/>
+  <testcase name="testExit()" classname="com.stockify.platform.AppIntegrationBasicTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
