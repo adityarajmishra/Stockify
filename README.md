@@ -114,17 +114,17 @@ Goodbye!`
 ----------------
 
 The project follows clean architecture principles and is organized into the following packages:
-
-`com.stockify.platform/
-├── App.java                 # Main application entry point
-├── model/
-│   └── Product.java        # Product entity
-├── service/
-│   └── InventoryService.java  # Business logic
-├── controller/
-│   └── CommandController.java # Command handling
-└── util/
-    └── ValidationUtil.java    # Input validation`
+    
+    `com.stockify.platform/
+    ├── App.java                 # Main application entry point
+    ├── model/
+    │   └── Product.java        # Product entity
+    ├── service/
+    │   └── InventoryService.java  # Business logic
+    ├── controller/
+    │   └── CommandController.java # Command handling
+    └── util/
+        └── ValidationUtil.java    # Input validation`
 
 🧪 Testing
 ----------
